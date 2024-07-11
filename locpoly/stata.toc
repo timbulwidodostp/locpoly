@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p locpoly Kernel-weighted local polynomial regression Use locpoly With STATA 18
