@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'locpoly': Kernel-weighted local polynomial regression Use locpoly With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _glist_def.idlg
+f _glist_sc.idlg
+f grlopts.idlg
+f grlopts_common.idlg
+f grlopts_common_sc.idlg
+f gscatter_chlist.idlg
+f gyxview.idlg
+f locpoly.ado
+f locpoly.dlg
+f locpoly.hlp
+f locpoly.sthlp
