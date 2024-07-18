@@ -1,6 +1,8 @@
 # locpoly
 Kernel-weighted local polynomial regression Use locpoly With STATA 18
 
+https://www.youtube.com/watch?v=ZynET1ASc1U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
